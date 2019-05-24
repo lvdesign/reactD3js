@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+### Sources
+
+https://blog.logrocket.com/data-visualization-in-react-using-react-d3-c35835af16d0
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
